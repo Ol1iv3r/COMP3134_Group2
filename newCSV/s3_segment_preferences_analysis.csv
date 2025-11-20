@@ -1,0 +1,13 @@
+Segment,Category,Revenue,Products_Sold,Unique_Customers
+At Risk,Electronics,1822835.25,722,257
+At Risk,Toys,497224.87,970,246
+At Risk,Clothing,57186.09,164,122
+High Value,Electronics,8556529.77,3422,567
+High Value,Toys,2262150.11,4440,567
+High Value,Clothing,346469.83,887,457
+New/Low Activity,Electronics,88295.88,38,37
+New/Low Activity,Toys,40398.76,91,54
+New/Low Activity,Clothing,10452.01,29,25
+Regular,Electronics,3765743.22,1504,521
+Regular,Toys,1048319.44,2088,508
+Regular,Clothing,173560.5,465,299
